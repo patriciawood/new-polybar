@@ -1,3 +1,16 @@
+Since polybar for rainmeter has been out of dev for a few years and is no longer responding to pull requests, I decided to make a fork. Slowly I'll be updating things as I come across my own needs. Eventually, adding new themes and functionality. 
+
+**Backlog**
+- [ ] Fix apps appearing on taskbar.
+- [ ] Fix modules
+- [ ] Fix applauncher
+- [ ] Modernize themeing
+- [ ] Rounded corners
+
+*Original Polybar readme*
+
+---
+
 ![Title](https://github.com/khanhas/Polybar/blob/master/titleImage.png)  
 ***for Rainmeter***  
   

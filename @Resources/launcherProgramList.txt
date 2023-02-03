@@ -1,0 +1,183 @@
+8x8 Output Matrix|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\VB Audio\Voicemeeter\8x8 Output Matrix.LNK|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\0.ico
+Administrative Tools|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Administrative Tools.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\1.ico
+Baldur's Gate Enhanced Edition|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\Baldur's Gate Enhanced Edition.url|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\2.ico
+BitTorrent Web|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\BitTorrent Web.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\3.ico
+Child of Light|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\Child of Light.url|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\4.ico
+Children of Morta|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\Children of Morta.url|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\5.ico
+Colorpicker|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Colorpicker.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\6.ico
+Command Prompt|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Command Prompt.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\7.ico
+computer|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\computer.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\8.ico
+Control Panel|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Control Panel.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\9.ico
+Discord|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Discord Inc\Discord.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\10.ico
+Dragon Age™ Inquisition|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\Dragon Age™ Inquisition.url|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\11.ico
+Driftland The Magic Revival|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\Driftland The Magic Revival.url|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\12.ico
+File Explorer|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\File Explorer.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\13.ico
+FINAL FANTASY VII REMAKE INTERGRADE|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\FINAL FANTASY VII REMAKE INTERGRADE.url|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\14.ico
+Firefox Private Browsing|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Firefox Private Browsing.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\15.ico
+GoveeDesktop|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\GoveeDesktop\GoveeDesktop.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\16.ico
+Habitica|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Chrome Apps\Habitica.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\17.ico
+Horizon Zero Dawn|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\Horizon Zero Dawn.url|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\18.ico
+Internet Explorer|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Internet Explorer.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\19.ico
+Macro Buttons|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\VB Audio\Voicemeeter\Macro Buttons.LNK|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\20.ico
+Magnify|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\Magnify.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\21.ico
+MSI Afterburner localization reference|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSI Afterburner\SDK\MSI Afterburner localization reference.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\22.ico
+MSI Afterburner skin format reference|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSI Afterburner\SDK\MSI Afterburner skin format reference.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\23.ico
+MSI Afterburner|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSI Afterburner\MSI Afterburner.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\24.ico
+Narrator|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\Narrator.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\25.ico
+Notion|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Notion.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\26.ico
+Obsidian|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Obsidian.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\27.ico
+On-Screen Keyboard|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\On-Screen Keyboard.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\28.ico
+OneDrive|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\OneDrive.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\29.ico
+Ori and the Blind Forest Definitive Edition|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\Ori and the Blind Forest Definitive Edition.url|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\30.ico
+Planet Zoo|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\Planet Zoo.url|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\31.ico
+Rainmeter|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Rainmeter.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\32.ico
+ReadMe|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSI Afterburner\ReadMe.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\33.ico
+ReadMe|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\RivaTuner Statistics Server\ReadMe.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\34.ico
+Readme|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\VB Audio\Voicemeeter\Readme.LNK|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\35.ico
+RivaTuner Statistics Server localization reference|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\RivaTuner Statistics Server\SDK\RivaTuner Statistics Server localization reference.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\36.ico
+RivaTuner Statistics Server skin format reference|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\RivaTuner Statistics Server\SDK\RivaTuner Statistics Server skin format reference.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\37.ico
+RivaTuner Statistics Server|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\RivaTuner Statistics Server\RivaTuner Statistics Server.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\38.ico
+Run|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Run.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\39.ico
+Rust|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\Rust.url|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\40.ico
+Samples|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSI Afterburner\SDK\Samples.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\41.ico
+Samples|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\RivaTuner Statistics Server\SDK\Samples.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\42.ico
+SceneBuilder|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Scene Builder\SceneBuilder.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\43.ico
+Send to OneNote|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Send to OneNote.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\44.ico
+The Jackbox Party Pack 5|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\The Jackbox Party Pack 5.url|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\45.ico
+The Jackbox Party Pack 6|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\The Jackbox Party Pack 6.url|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\46.ico
+VBAN-2-MIDI|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\VB Audio\Voicemeeter\VBAN-2-MIDI.LNK|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\47.ico
+Virtual AUX IO Control Panel|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\VB Audio\Voicemeeter\Virtual AUX IO Control Panel.LNK|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\48.ico
+Virtual IO Control Panel|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\VB Audio\Voicemeeter\Virtual IO Control Panel.LNK|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\49.ico
+Visual Studio Code|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Visual Studio Code\Visual Studio Code.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\50.ico
+VM Streamer View|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\VB Audio\Voicemeeter\VM Streamer View.LNK|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\51.ico
+Voicemeeter Banana|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\VB Audio\Voicemeeter\Voicemeeter Banana.LNK|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\52.ico
+Voicemeeter|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\VB Audio\Voicemeeter\Voicemeeter.LNK|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\53.ico
+Wallpaper Engine|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\Wallpaper Engine.url|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\54.ico
+Windows PowerShell (x86)|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Windows PowerShell\Windows PowerShell (x86).lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\55.ico
+Windows PowerShell|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Windows PowerShell\Windows PowerShell.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\56.ico
+Wolow Companion|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Wolow Companian\Wolow Companion.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\57.ico
+Zoom|C:\Users\pdugge1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Zoom\Zoom.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\58.ico
+7-Zip File Manager|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\7-Zip\7-Zip File Manager.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\59.ico
+8x8 Output Matrix|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VB Audio\Voicemeeter\8x8 Output Matrix.LNK|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\60.ico
+Adobe Acrobat|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Acrobat.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\61.ico
+Adobe Digital Editions 4.5|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Digital Editions 4.5.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\62.ico
+Adobe Digital Editions 4.5|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe\Adobe Digital Editions 4.5\Adobe Digital Editions 4.5.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\63.ico
+Ahk2Exe|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Ahk2Exe.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\64.ico
+Anki|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Anki.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\65.ico
+Application Verifier (WOW)|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Kits\Application Verifier (X86)\Application Verifier (WOW).lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\66.ico
+Application Verifier (X64)|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Kits\Application Verifier (X64)\Application Verifier (X64).lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\67.ico
+Audacity|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Audacity.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\68.ico
+AutoHotkey Window Spy|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\AutoHotkey Window Spy.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\69.ico
+AutoHotkey|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\AutoHotkey.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\70.ico
+Avira|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Avira\Avira.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\71.ico
+calibre 64bit - E-book management|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\calibre 64bit - E-book Management\calibre 64bit - E-book management.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\72.ico
+Character Map|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Character Map.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\73.ico
+Clockify|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Clockify\Clockify.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\74.ico
+Component Services|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Component Services.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\75.ico
+Computer Management|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Computer Management.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\76.ico
+Core Temp|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Core Temp\Core Temp.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\77.ico
+Debuggable Package Manager|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio 2022\Visual Studio Tools\Debuggable Package Manager.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\78.ico
+Developer Command Prompt for VS 2022|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio 2022\Visual Studio Tools\Developer Command Prompt for VS 2022.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\79.ico
+Developer PowerShell for VS 2022|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio 2022\Visual Studio Tools\Developer PowerShell for VS 2022.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\80.ico
+dfrgui|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\dfrgui.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\81.ico
+Disk Cleanup|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Disk Cleanup.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\82.ico
+E-book viewer 64bit|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\calibre 64bit - E-book Management\E-book viewer 64bit.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\83.ico
+Edit E-book 64bit|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\calibre 64bit - E-book Management\Edit E-book 64bit.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\84.ico
+Event Viewer|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Event Viewer.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\85.ico
+Firefox|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Firefox.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\86.ico
+GeForce Experience|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\NVIDIA Corporation\GeForce Experience.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\87.ico
+Get Involved|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\calibre 64bit - E-book Management\Get Involved.url|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\88.ico
+Git Bash|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git\Git Bash.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\89.ico
+Git CMD|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git\Git CMD.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\90.ico
+Git FAQs (Frequently Asked Questions)|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git\Git FAQs (Frequently Asked Questions).url|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\91.ico
+Git GUI|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git\Git GUI.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\92.ico
+Git Release Notes|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git\Git Release Notes.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\93.ico
+Google Chrome|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Google Chrome.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\94.ico
+Google Drive|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Google Drive.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\95.ico
+Guild Wars 2 Support Web Site|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Guild Wars 2\Guild Wars 2 Support Web Site.url|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\96.ico
+Guild Wars 2 Web Site|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Guild Wars 2\Guild Wars 2 Web Site.url|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\97.ico
+Guild Wars 2|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Guild Wars 2\Guild Wars 2.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\98.ico
+Home Page|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe\Adobe Digital Editions 4.5\Home Page.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\99.ico
+IntelliJ IDEA Community Edition 2022.3.1|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\JetBrains\IntelliJ IDEA Community Edition 2022.3.1.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\100.ico
+iSCSI Initiator|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\iSCSI Initiator.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\101.ico
+League of Legends|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Riot Games\League of Legends.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\102.ico
+Legends of Runeterra|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Riot Games\Legends of Runeterra.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\103.ico
+LibreOffice (Safe Mode)|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\LibreOffice 7.4\LibreOffice (Safe Mode).lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\104.ico
+LibreOffice Base|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\LibreOffice 7.4\LibreOffice Base.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\105.ico
+LibreOffice Calc|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\LibreOffice 7.4\LibreOffice Calc.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\106.ico
+LibreOffice Draw|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\LibreOffice 7.4\LibreOffice Draw.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\107.ico
+LibreOffice Impress|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\LibreOffice 7.4\LibreOffice Impress.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\108.ico
+LibreOffice Math|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\LibreOffice 7.4\LibreOffice Math.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\109.ico
+LibreOffice Writer|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\LibreOffice 7.4\LibreOffice Writer.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\110.ico
+LibreOffice|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\LibreOffice 7.4\LibreOffice.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\111.ico
+Logitech G HUB|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Logi\Logitech G HUB.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\112.ico
+LRF viewer 64bit|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\calibre 64bit - E-book Management\LRF viewer 64bit.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\113.ico
+Macro Buttons|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VB Audio\Voicemeeter\Macro Buttons.LNK|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\114.ico
+Math Input Panel|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Math Input Panel.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\115.ico
+Memory Diagnostics Tool|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Memory Diagnostics Tool.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\116.ico
+Microsoft Edge|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Edge.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\117.ico
+Mozilla VPN|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Mozilla VPN.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\118.ico
+Notepad|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Notepad.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\119.ico
+NZXT CAM|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\NZXT CAM.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\120.ico
+OBS Studio (64bit)|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\OBS Studio\OBS Studio (64bit).lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\121.ico
+ODBC Data Sources (32-bit)|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\122.ico
+ODBC Data Sources (64-bit)|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (64-bit).lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\123.ico
+Office Language Preferences|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office Tools\Office Language Preferences.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\124.ico
+OneNote|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\OneNote.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\125.ico
+Paint|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Paint.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\126.ico
+Pandoc User’s Guide|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Pandoc\Pandoc User’s Guide.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\127.ico
+ParseHub|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\ParseHub.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\128.ico
+Performance Monitor|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Performance Monitor.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\129.ico
+Print Management|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Print Management.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\130.ico
+qBittorrent|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\qBittorrent\qBittorrent.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\131.ico
+Quick Assist|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Quick Assist.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\132.ico
+Rainmeter|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Rainmeter.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\133.ico
+Razer Axon on the Web|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Razer Axon\Razer Axon on the Web.url|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\134.ico
+Razer Axon|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Razer Axon\Razer Axon.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\135.ico
+Razer Cortex on the Web|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Razer Cortex\Razer Cortex on the Web.url|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\136.ico
+Razer Cortex|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Razer Cortex\Razer Cortex.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\137.ico
+Razer Synapse|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Razer\Razer Synapse.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\138.ico
+Readme|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VB Audio\Voicemeeter\Readme.LNK|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\139.ico
+RecoveryDrive|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\RecoveryDrive.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\140.ico
+Registry Editor|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Registry Editor.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\141.ico
+Remote Desktop Connection|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Remote Desktop Connection.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\142.ico
+Resource Monitor|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Resource Monitor.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\143.ico
+Riot Client|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Riot Games\Riot Client.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\144.ico
+Samples for Desktop Apps|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Kits\Windows Software Development Kit\Samples for Desktop Apps.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\145.ico
+Samples for Windows Store Apps|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Kits\Windows Software Development Kit\Samples for Windows Store Apps.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\146.ico
+Security Configuration Management|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Security Configuration Management.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\147.ico
+services|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\services.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\148.ico
+Snipping Tool|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Snipping Tool.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\149.ico
+Speech Recognition|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessibility\Speech Recognition.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\150.ico
+Steam Support Center|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Steam\Steam Support Center.url|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\151.ico
+Steam|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Steam\Steam.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\152.ico
+Steps Recorder|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Steps Recorder.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\153.ico
+System Configuration|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\System Configuration.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\154.ico
+System Information|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\System Information.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\155.ico
+Task Manager|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\System Tools\Task Manager.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\156.ico
+Task Scheduler|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Task Scheduler.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\157.ico
+THX Spatial Audio|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Razer\THX Spatial Audio.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\158.ico
+Tools for Desktop Apps|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Kits\Windows Software Development Kit\Tools for Desktop Apps.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\159.ico
+Tools for Windows Store Apps|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Kits\Windows Software Development Kit\Tools for Windows Store Apps.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\160.ico
+Unity Hub|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Unity Hub.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\161.ico
+User Manual|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\calibre 64bit - E-book Management\User Manual.url|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\162.ico
+VBAN-2-MIDI|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VB Audio\Voicemeeter\VBAN-2-MIDI.LNK|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\163.ico
+Virtual AUX IO Control Panel|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VB Audio\Voicemeeter\Virtual AUX IO Control Panel.LNK|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\164.ico
+Virtual IO Control Panel|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VB Audio\Voicemeeter\Virtual IO Control Panel.LNK|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\165.ico
+Visual Studio 2022|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio 2022.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\166.ico
+Visual Studio Installer|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio Installer.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\167.ico
+VM Streamer View|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VB Audio\Voicemeeter\VM Streamer View.LNK|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\168.ico
+Voicemeeter Banana|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VB Audio\Voicemeeter\Voicemeeter Banana.LNK|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\169.ico
+Voicemeeter|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VB Audio\Voicemeeter\Voicemeeter.LNK|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\170.ico
+Windows App Cert Kit|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Kits\Windows App Certification Kit\Windows App Cert Kit.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\171.ico
+Windows Defender Firewall with Advanced Security|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Windows Defender Firewall with Advanced Security.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\172.ico
+Windows Fax and Scan|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Fax and Scan.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\173.ico
+Windows Media Player|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\174.ico
+Windows PowerShell ISE (x86)|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows PowerShell\Windows PowerShell ISE (x86).lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\175.ico
+Windows PowerShell ISE|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows PowerShell\Windows PowerShell ISE.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\176.ico
+Windows Software Development Kit|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Kits\Windows Software Development Kit\Windows Software Development Kit.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\177.ico
+Wordpad|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Wordpad.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\178.ico
+x64 Native Tools Command Prompt for VS 2022|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio 2022\Visual Studio Tools\VC\x64 Native Tools Command Prompt for VS 2022.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\179.ico
+x64_x86 Cross Tools Command Prompt for VS 2022|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio 2022\Visual Studio Tools\VC\x64_x86 Cross Tools Command Prompt for VS 2022.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\180.ico
+x86 Native Tools Command Prompt for VS 2022|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio 2022\Visual Studio Tools\VC\x86 Native Tools Command Prompt for VS 2022.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\181.ico
+x86_x64 Cross Tools Command Prompt for VS 2022|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio 2022\Visual Studio Tools\VC\x86_x64 Cross Tools Command Prompt for VS 2022.lnk|C:\Users\pdugge1\Documents\Rainmeter\Skins\Polybar\@Resources\launcherIcon\182.ico
